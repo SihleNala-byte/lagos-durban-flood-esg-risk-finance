@@ -29,7 +29,7 @@ Lagos and Durban are both densely populated, low-lying African coastal cities fa
 ## Repository Structure
 
 ```
-lagos-durban-flood-risk-finance/
+lagos-durban-flood-esg-risk-finance/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
