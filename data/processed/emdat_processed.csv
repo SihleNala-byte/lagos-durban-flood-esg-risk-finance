@@ -1,0 +1,117 @@
+DisNo.,Country,Location,Year,Disaster_type,Subtype,Deaths,Total_affected,Total_damage_000usd,City,Damage_million_usd,Decade
+1999-0610-NGA,Nigeria,North,1999,Flood,Riverine flood,0.0,25000.0,,Lagos,0.0,1990
+1994-0208-NGA,Nigeria,"Borno, Kebbi, Kaduna, Sokoto, Katsina, Kogi, Kwara, Plateau, Abia, Adamawa, Taraba, Amambra, Edo, Cross River, Jigawa, Niger, Bauchi, Benue, Akwa, Ibom, River, Imo, Kano",1994,Flood,Riverine flood,30.0,580000.0,66500.0,Lagos,66.5,1990
+1994-0632-ZAF,South Africa,"Capetown, Cape Peninsula",1994,Flood,Flood (General),0.0,11000.0,,Durban,0.0,1990
+1996-0010-ZAF,South Africa,Kwazulu-Natal province,1996,Flood,Flash flood,7.0,500.0,,Durban,0.0,1990
+1997-0033-ZAF,South Africa,Natal Province,1997,Flood,Flood (General),0.0,307.0,,Durban,0.0,1990
+1998-0308-NGA,Nigeria,"Pategi, Edu, Moro districts (Kwara state), Edati, Mokwa, Lavun districts (Niger state)",1998,Flood,Riverine flood,0.0,100000.0,,Lagos,0.0,1990
+2021-0075-ZAF,South Africa,"Mpumalanga Province, Free State Province and the area of Johannesburg and Pretoria, Limpopo, Mpumalanga, KwaZulu-Natal and Northern Cape Provinces",2021,Flood,Flood (General),31.0,400.0,75000.0,Durban,75.0,2020
+2021-0521-NGA,Nigeria,"Jigawa,Bauchi, Adamawa and Borno states; Jalingo, Taraba, and the city of Lagos",2021,Flood,Flood (General),0.0,7500.0,,Lagos,0.0,2020
+2022-0009-ZAF,South Africa,Eastern Cape Province,2022,Flood,Flood (General),10.0,0.0,70000.0,Durban,70.0,2020
+1999-0370-NGA,Nigeria,"Sokoto state (Nord-Ouest), Adamawa, Borno (Nord-Est), Niger (Centre), Kwara (Centre-Ouest)",1999,Flood,Riverine flood,39.0,90000.0,,Lagos,0.0,1990
+1999-0426-ZAF,South Africa,city of Durban (Kwazulu-Natal Province),1999,Flood,Flash flood,4.0,300.0,13300.0,Durban,13.3,1990
+2017-0272-NGA,Nigeria,"Ekiti, Osun, Akwa Ibom, Kebbi, Niger (Suleja, Tafa), Kwara, Ebonyi, Enugu, Abia, Oyo (Ibadan), Lagos (Victoria Island, Lekki, Oniru), Plateau, Sokoto, Edo, Bayelsa",2017,Flood,Flood (General),20.0,500.0,,Lagos,0.0,2010
+2017-0217-ZAF,South Africa,"KwaZulu-Natal, Nquthu (Umzinyathi District), Zinkwazi (Ilembe District), Mzingwenya (Uthungulu District), uMzumbe municipality, uMdoni, uMuziwabantu (Ugu)",2017,Flood,Flood (General),3.0,200.0,,Durban,0.0,2010
+2022-0674-NGA,Nigeria,"Anambra, Delta, Cross River, Rivers, Benue, Borno, Enugu, Imo, Kebbi, Kogi, Lagos, Nasarawa, Niger, Rivers,Taraba, and Yobe states",2022,Flood,Flood (General),603.0,2802500.0,4200000.0,Lagos,4200.0,2020
+2023-0672-NGA,Nigeria,Emirates of Dukku and Nafada in Gombe State,2023,Flood,Flood (General),0.0,1336.0,,Lagos,0.0,2020
+2023-0855-ZAF,South Africa,"Ladysmith, Mandeni (KwaZulu-Natal province)",2023,Flood,Flood (General),34.0,1800.0,,Durban,0.0,2020
+2024-0635-NGA,Nigeria,"Adamawa, Borno, Bauchi, Sokoto, Zamfara and Jigawa states",2024,Flood,Flood (General),321.0,1377411.0,225000.0,Lagos,225.0,2020
+2014-0211-NGA,Nigeria,"Ibadan North, Ibadan North-East, Ibadan North-West, Ibadan South-East, Ibadan South-West districts (Oyo province)",2014,Flood,Riverine flood,15.0,10000.0,,Lagos,0.0,2010
+2012-0469-ZAF,South Africa,"Bathurst, Port Alfred, Kenton-on-Sea towns (Ndlambe area, Cacadu district, Eastern Cape province), Grahamstown town (Makana area, Cacadu district, Eastern Cape province)",2012,Flood,Riverine flood,13.0,125000.0,200000.0,Durban,200.0,2010
+2020-0257-NGA,Nigeria,Akwa Ibom (southern part of the country) and Kwara (west-central Nigeria),2020,Flood,Flood (General),4.0,300.0,,Lagos,0.0,2020
+1981-0006-ZAF,South Africa,Laingsburg (Western Cape),1981,Flood,Flood (General),104.0,185.0,1000.0,Durban,1.0,1980
+1996-0027-ZAF,South Africa,"Mpumalanga, Gauteng, Free State, North West, Eastern Cape, KwaZulu-Natal provinces",1996,Flood,Riverine flood,27.0,7030.0,6860.0,Durban,6.86,1990
+1974-0012-ZAF,South Africa,N. Natal,1974,Flood,Flood (General),26.0,0.0,,Durban,0.0,1970
+1977-0017-ZAF,South Africa,Johannesburg,1977,Flood,Flood (General),4.0,1000.0,,Durban,0.0,1970
+2024-0302-ZAF,South Africa,"Eastern Cape, KwaZulu-Natal, and Western Cape provinces",2024,Flood,Flood (General),21.0,46620.0,50000.0,Durban,50.0,2020
+2023-0619-ZAF,South Africa,Western Cape province,2023,Flood,Flood (General),11.0,5000.0,,Durban,0.0,2020
+2004-0315-NGA,Nigeria,Jigawa province,2004,Flood,Riverine flood,4.0,300.0,,Lagos,0.0,2000
+2006-0393-NGA,Nigeria,Edo province,2006,Flood,Riverine flood,0.0,2000.0,,Lagos,0.0,2000
+2006-0556-NGA,Nigeria,Gusau district (Zamfara province),2006,Flood,Flash flood,40.0,1000.0,,Lagos,0.0,2000
+2009-0261-ZAF,South Africa,City of Cape Town district (Western Cape province),2009,Flood,Riverine flood,11.0,20000.0,,Durban,0.0,2000
+2009-0622-NGA,Nigeria,Lagos province,2009,Flood,Riverine flood,31.0,0.0,,Lagos,0.0,2000
+1995-0305-ZAF,South Africa,Pietermaritzburg region (Kwazulu Natal Province),1995,Flood,Flash flood,207.0,4500.0,10000.0,Durban,10.0,1990
+2011-0100-ZAF,South Africa,"Buffalo City, Amathole, Joe Gqabi, O.R. Tambo, Alfred Nzo, Chris Hani districts (Eastern Cape province), Fezile Dabi, Thabo Mofutsanyane, Xhariep districts (Free State province), City of Johannesburg, Ekurhuleni, Sedibeng, West Rand districts (Gauteng province), Amajuba, eThekwini, iLembe, Sisonke, Ugu, Uthukela districts (KwaZulu-Natal province), Mopani, Sekhukhune, Vhembe, Waterberg districts (Limpopo province), Ehlanzeni, Nkangala districts (Mpumalanga province), Frances Baard, Namakwa, Pixley ka Seme, Siyanda districts (Northern Cape province), North West province",2011,Flood,Riverine flood,40.0,200321.0,211000.0,Durban,211.0,2010
+2011-0343-NGA,Nigeria,"Ibadan North, Ibadan South-West, Oluyole, Ido, Ibadan North-West, Egbeda, Ona Ara, Ibadan North East, Lagelu, Akinyele districts (Oyo province)",2011,Flood,Riverine flood,120.0,3000.0,,Lagos,0.0,2010
+2011-0582-NGA,Nigeria,"Imo, Lagos provinces",2011,Flood,Riverine flood,10.0,0.0,,Lagos,0.0,2010
+1959-0032-ZAF,South Africa,,1959,Flood,Flood (General),51.0,0.0,,Durban,0.0,1950
+1968-0070-ZAF,South Africa,Port Elizabeth,1968,Flood,Flood (General),0.0,0.0,30000.0,Durban,30.0,1960
+2000-0547-NGA,Nigeria,Zamfara province,2000,Flood,Flood (General),0.0,750.0,1900.0,Lagos,1.9,2000
+2000-0596-NGA,Nigeria,Gusau district (Zamfara province),2000,Flood,Flood (General),0.0,2000.0,,Lagos,0.0,2000
+2001-0276-NGA,Nigeria,"oke-Ogun, Idimissa/olle-Oje, Ogbonmo, Oke-Idogbon, Ijebu-Owo, Post-Office, Oke-Ajama, Ilore, Iyere, Ishokun Oke, Ishokun Odo areas (Owo district, Ondo province)",2001,Flood,Flood (General),0.0,2000.0,,Lagos,0.0,2000
+1993-0215-ZAF,South Africa,Northern Natal province,1993,Flood,Riverine flood,12.0,15000.0,,Durban,0.0,1990
+1998-0249-NGA,Nigeria,Jigawa State,1998,Flood,Flood (General),15.0,7000.0,,Lagos,0.0,1990
+2000-0364-NGA,Nigeria,"Sokoto North, Sokoto South districts (Sokoto province)",2000,Flood,Flood (General),0.0,250.0,,Lagos,0.0,2000
+2000-0511-NGA,Nigeria,Cross River province,2000,Flood,Flood (General),4.0,1000.0,,Lagos,0.0,2000
+2002-0238-NGA,Nigeria,"Bariga, Bode Joseh areas (Shomolu district, Lagos province), Lagos Mainland district (Lagos province)",2002,Flood,Flood (General),0.0,200.0,,Lagos,0.0,2000
+2003-0455-NGA,Nigeria,"Kaduna, Kano, Niger, Jigawa provinces",2003,Flood,Riverine flood,16.0,210000.0,2570.0,Lagos,2.57,2000
+2004-0268-NGA,Nigeria,Lagos province,2004,Flood,Riverine flood,0.0,1000.0,,Lagos,0.0,2000
+2004-0434-NGA,Nigeria,Gombe province,2004,Flood,Flash flood,25.0,3000.0,,Lagos,0.0,2000
+2005-0065-NGA,Nigeria,Lagos province,2005,Flood,Riverine flood,0.0,1000.0,,Lagos,0.0,2000
+2007-0419-NGA,Nigeria,"Plateau, Adamawa, Borno, Anambra, Bauchi, Yobe, Ogun, Nassarawa, Lagos, Sokoto, Kebbi provinces",2007,Flood,Riverine flood,68.0,50000.0,,Lagos,0.0,2000
+2008-0245-ZAF,South Africa,KwaZulu-Natal province,2008,Flood,Riverine flood,11.0,4000.0,1264.0,Durban,1.264,2000
+2011-0230-NGA,Nigeria,Kano province,2011,Flood,Riverine flood,24.0,950.0,4500.0,Lagos,4.5,2010
+2015-0448-NGA,Nigeria,"Kano, Katsina, Sokoto, Kebbi, Zamfara, Kaduna, Jigawa, Adamawa, Yobe, Gombe, Bauchi, Anambra, Benue, Delta, Niger, Ondo, Taraba provinces",2015,Flood,Riverine flood,53.0,100420.0,25000.0,Lagos,25.0,2010
+2016-0305-ZAF,South Africa,"Western Cape (Cape Town, Phillipi, Khayelitsha), Kwazulu Natal (Durban, Cato Manor, Amanzimtoti, Inanda, Ntuzuma, KwaMashu, uMlazi, Yellow Wood Park, Chatsworth -eThekwini Metropolitan Municipality, Ugu district)",2016,Flood,Flood (General),7.0,6900.0,180000.0,Durban,180.0,2010
+2016-0478-ZAF,South Africa,"Gauteng, KwaZulu Natal provinces",2016,Flood,Flash flood,6.0,600.0,100000.0,Durban,100.0,2010
+2019-0106-ZAF,South Africa,"Ntuzuma,Verusalam, Inanda and KwaMashu towns (north of Durban city, KwaZulu-Natal Province)",2019,Flood,Flood (General),10.0,0.0,,Durban,0.0,2010
+2021-0589-NGA,Nigeria,"Trademoore, Light Gold, Wisdom Estates and Lugbe (Abuja)",2021,Flood,Flash flood,4.0,830.0,,Lagos,0.0,2020
+2022-0077-ZAF,South Africa,Gauteng Province; KwaZulu-Natal,2022,Flood,Flood (General),3.0,138.0,,Durban,0.0,2020
+2022-0205-ZAF,South Africa,"uMkhanyakude, uThukela, uMzinyathi, UMgungundlovu, Zululand, EThekwini, Ilembe, Harry Gwala, King Cetshwayo, UGu,Amajuba municipalities Umlazi Town (Durban, KwaZulu-Natal Province)",2022,Flood,Flood (General),544.0,142290.0,3500000.0,Durban,3500.0,2020
+2022-0108-ZAF,South Africa,Gauteng Province,2022,Flood,Flood (General),4.0,187.0,,Durban,0.0,2020
+2022-0356-ZAF,South Africa,"Kleinvlei, Ravensmead, Goodwood, Strand, Bonteheuwel, Belhar, Maitland and Bellville South.(Cape Town)",2022,Flood,Flood (General),0.0,204.0,,Durban,0.0,2020
+2023-0180-ZAF,South Africa,"Ingquza Hill, King Sabata Dalindyebo and Port St Johns (Easter Cape Province)",2023,Flood,Flood (General),3.0,500.0,,Durban,0.0,2020
+2023-0691-NGA,Nigeria,"Fufore, Demsa, Shelleng (Adamawa State)",2023,Flood,Flood (General),275.0,30000.0,,Lagos,0.0,2020
+2024-0015-ZAF,South Africa,"eThekwini Metro, KwaDukuza, and Ndwedwe Local Municipality (KwaZulu-Natal); Durban",2024,Flood,Flash flood,13.0,756.0,10000.0,Durban,10.0,2020
+2024-0783-ZAF,South Africa,Eastern Cape province,2024,Flood,Flood (General),10.0,3090.0,,Durban,0.0,2020
+1985-0015-NGA,Nigeria,Central,1985,Flood,Riverine flood,0.0,6000.0,8000.0,Lagos,8.0,1980
+1978-0017-ZAF,South Africa,Transvaal,1978,Flood,Flood (General),26.0,0.0,,Durban,0.0,1970
+1987-0166-ZAF,South Africa,"Natal, Kwazulu",1987,Flood,Riverine flood,506.0,65000.0,765305.0,Durban,765.305,1980
+1988-0074-ZAF,South Africa,Cape province,1988,Flood,Riverine flood,25.0,0.0,,Durban,0.0,1980
+1988-0334-NGA,Nigeria,"Kano, Borno, Oyo states",1988,Flood,Riverine flood,130.0,300000.0,,Lagos,0.0,1980
+1999-0593-ZAF,South Africa,Durban city (KwaZulu Natal Province),1999,Flood,Riverine flood,23.0,2000.0,6300.0,Durban,6.3,1990
+2000-0043-ZAF,South Africa,"Mpumalanga, KwaZulu-Natal, Gauteng provinces",2000,Flood,Riverine flood,83.0,200.0,160000.0,Durban,160.0,2000
+2001-0408-NGA,Nigeria,Talata-Marafa district (Zamfara province),2001,Flood,Riverine flood,0.0,3852.0,,Lagos,0.0,2000
+2001-0481-ZAF,South Africa,City of Cape Town district (Western Cape province),2001,Flood,Flood (General),0.0,42356.0,,Durban,0.0,2000
+2001-0494-NGA,Nigeria,"Jigawa, Kano provinces",2001,Flood,Flash flood,200.0,84065.0,3000.0,Lagos,3.0,2000
+2001-0664-ZAF,South Africa,"Greater Tubatse area (Sekhukhune district, Limpopo province), Thembisile area (Nkangala district, Mpumalanga province), Ingwavuma, Ubombo, Jozini towns (Jozini area, Umkhanyakude district, KwaZulu-Natal province)",2001,Flood,Flash flood,5.0,312.0,,Durban,0.0,2000
+2004-0398-ZAF,South Africa,City of Cape Town district (Western Cape province),2004,Flood,Riverine flood,0.0,15000.0,,Durban,0.0,2000
+2004-0413-NGA,Nigeria,Adamawa province,2004,Flood,Flash flood,65.0,10600.0,,Lagos,0.0,2000
+2006-0431-ZAF,South Africa,"Eastern Cape, Western Cape provinces",2006,Flood,Riverine flood,6.0,3000.0,145000.0,Durban,145.0,2000
+2006-0445-NGA,Nigeria,Zamfara province,2006,Flood,Flash flood,0.0,10000.0,,Lagos,0.0,2000
+2007-0306-ZAF,South Africa,"Cape Flats area (City of Cape Town district, Western Cape province)",2007,Flood,Riverine flood,0.0,38000.0,,Durban,0.0,2000
+2009-0375-NGA,Nigeria,"Zamfara, Kaduna, Niger, Benue, Adamawa, Nassarawa, Sokoto, Jigawa, Abuja provinces",2009,Flood,Riverine flood,0.0,150000.0,,Lagos,0.0,2000
+2010-0509-NGA,Nigeria,"Jigawa, Sokoto, Kebbi, Niger, Katsina provinces",2010,Flood,Riverine flood,40.0,1500200.0,30000.0,Lagos,30.0,2010
+2011-0214-NGA,Nigeria,"Katsina, Lagos provinces",2011,Flood,Riverine flood,20.0,26965.0,,Lagos,0.0,2010
+2012-0366-NGA,Nigeria,"Nassarrawa, Niger, Plateau, Adamawa, Bauchi, Gombe, Taraba, Yobe, Jigawa, Kaduna, Kano, Katsina, Kebbi, Anambra, Ebonyi, Cross River, Lagos, Benue",2012,Flood,Riverine flood,363.0,7000867.0,500000.0,Lagos,500.0,2010
+2014-0099-ZAF,South Africa,"Gauteng, KwaZulu-Natal, Limpopo, Mpumalanga, North West provinces",2014,Flood,Riverine flood,32.0,7185.0,85000.0,Durban,85.0,2010
+2018-0238-NGA,Nigeria,"Jibia district; Yobe, Edo, Ogun, Katsina, Ondo, Baucho, Niger, Abuja states",2018,Flood,Flood (General),101.0,15872.0,,Lagos,0.0,2010
+2018-0365-NGA,Nigeria,"Kogi, Delta, Anambra, Niger",2018,Flood,Flood (General),199.0,1922332.0,275000.0,Lagos,275.0,2010
+2019-0176-ZAF,South Africa,"KwaZulu-Natal, Eastern Cape, Free state provinces",2019,Flood,Flood (General),73.0,1000.0,50000.0,Durban,50.0,2010
+2019-0415-NGA,Nigeria,"Cross River, Kogi, Niger,Taraba States",2019,Flood,Flood (General),12.0,18640.0,,Lagos,0.0,2010
+2019-0435-NGA,Nigeria,"Borno, Jigawa, Kano, Yobe states",2019,Flood,Flood (General),12.0,52500.0,,Lagos,0.0,2010
+2019-0607-ZAF,South Africa,Pretoria and Gauteng Province,2019,Flood,Flood (General),2.0,3500.0,,Durban,0.0,2010
+2020-0050-ZAF,South Africa,Johannesburg and Gauteng Province,2020,Flood,Flash flood,3.0,200.0,,Durban,0.0,2020
+2022-0788-ZAF,South Africa,"Soweto, Erkhuleni, Johannesburg, Vereeniging, Brakpan (Gauteng Province); Rustenburg, Bojanala (North West Province); Eastern Cape, Free State, Limpopo, Mpumalanga provinces",2022,Flood,Flash flood,17.0,56177.0,,Durban,0.0,2020
+2020-0321-NGA,Nigeria,"Suleja City, Gwagwalada area, Abuja",2020,Flood,Flood (General),30.0,0.0,,Lagos,0.0,2020
+2020-0455-NGA,Nigeria,"Jigawa, Kebbi, Kwara, Sokoto, Zamfara",2020,Flood,Flood (General),155.0,193425.0,100000.0,Lagos,100.0,2020
+2022-0035-ZAF,South Africa,Ladysmith and Msinga (KwaZulu-Natal Province),2022,Flood,Flood (General),1.0,100.0,105000.0,Durban,105.0,2020
+2022-0313-ZAF,South Africa,Durban (KwaZulu-Natal province),2022,Flood,Flood (General),0.0,200.0,,Durban,0.0,2020
+2023-0080-ZAF,South Africa,"Mpumalanga, the Eastern Cape, Gauteng, KwaZulu-Natal, Limpopo, the Northern Cape, and North West",2023,Flood,Flood (General),17.0,1000.0,,Durban,0.0,2020
+2024-0657-NGA,Nigeria,Maiduguri (Borno state),2024,Flood,Flood (General),37.0,414058.0,,Lagos,0.0,2020
+1999-0430-NGA,Nigeria,"Oguta town (Imo State), Rivers state",1999,Flood,Riverine flood,50.0,2000.0,,Lagos,0.0,1990
+2000-0620-NGA,Nigeria,Lagos province,2000,Flood,Flash flood,0.0,500.0,4805.0,Lagos,4.805,2000
+2000-0628-NGA,Nigeria,Kebbi province,2000,Flood,Flood (General),0.0,1000.0,,Lagos,0.0,2000
+2000-0754-ZAF,South Africa,Kwazulu-Natal province,2000,Flood,Flash flood,3.0,3000.0,,Durban,0.0,2000
+2002-0514-ZAF,South Africa,"East London town (Buffalo City district, Eastern Cape province)",2002,Flood,Riverine flood,16.0,2500.0,,Durban,0.0,2000
+2003-0146-ZAF,South Africa,"Montagu town (Langeberg area, Cape Winelands district, Western Cape province)",2003,Flood,Riverine flood,1.0,500.0,,Durban,0.0,2000
+2004-0402-NGA,Nigeria,"Ughelli North, Ughelli South districts (Delta province)",2004,Flood,Riverine flood,0.0,15000.0,,Lagos,0.0,2000
+2005-0423-NGA,Nigeria,"Jigawa, Bauchi, Taraba, Yobe provinces",2005,Flood,Riverine flood,60.0,3004.0,147.0,Lagos,0.147,2000
+2006-0181-ZAF,South Africa,"Taung town (Greater Taung area, Dr Ruth Segomotsi Mompati district, North West province)",2006,Flood,Riverine flood,6.0,4160.0,71000.0,Durban,71.0,2000
+2007-0541-NGA,Nigeria,Ogun province,2007,Flood,Flood (General),17.0,0.0,,Lagos,0.0,2000
+2007-0595-NGA,Nigeria,"Ikorodu, Kosofe districts (Lagos province), Abeokuta North, Abeokuta South districts (Ogun province)",2007,Flood,Flood (General),6.0,5000.0,,Lagos,0.0,2000
+2009-0108-ZAF,South Africa,KwaZulu Natal province,2009,Flood,Riverine flood,3.0,300.0,,Durban,0.0,2000
+2013-0386-NGA,Nigeria,"Abia, Bauchi, Ebonyi, Edo, Gombe, Jigawa, Kano, Katsina, Kebbi, Zamfara provinces",2013,Flood,Riverine flood,19.0,81506.0,,Lagos,0.0,2010
+2016-0337-NGA,Nigeria,"Gwaram, Dutse, Jahun, Ringim, Hadejia, Babura, Gumel, Malammadori, Birninkudu districts (Jigawa province)",2016,Flood,Riverine flood,18.0,12000.0,,Lagos,0.0,2010
+2017-0378-NGA,Nigeria,"Benue (Makurdi), Kogi (Lokoja, Sarkin Noma suburbs, Ibaji, Igalamela-Odolu, Ajaokuta, Bassa, Koton-Karfe ) states",2017,Flood,Flood (General),0.0,10000.0,,Lagos,0.0,2010
+2019-0182-ZAF,South Africa,Eastern Cape Province,2019,Flood,Flood (General),13.0,0.0,,Durban,0.0,2010
