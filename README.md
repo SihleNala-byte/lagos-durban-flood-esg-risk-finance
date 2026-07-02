@@ -58,8 +58,8 @@ lagos-durban-flood-esg-risk-finance/
 │   ├── Step07_Cumulative_NPV.png
 │   ├── Step07_Damage_Trajectories.png
 │   └── Step07_Dashboard.png
-└── report/
-    └── Flood_Risk_Finance_Report.docx
+└── reports/
+    └── Comparative_Flood_Risk_Assessment_Lagos_Durban.pdf
 
 ```
 
@@ -96,11 +96,10 @@ lagos-durban-flood-esg-risk-finance/
 
 | | |
 |---|---|
-| ![Climate trends](figures/climate_trends.png) | ![Flood frequency trend](figures/Step04_flood_frequency_annual.png) |
-| ![Regression diagnostics](figures/Step05_regression_coefficients.png) | ![CBA comparison](figures/cba_scenario_comparison.png) |
+| ![Rainfall_Trend](figures/Step02_rainfall_trends_with_regression.png) | ![Temperature Trend](figures/Step02_temperature_trends_with_regression.png) |
+| ![Regression diagnostics](figures/Step05_regression_coefficients.png) | ![Flood frequency trend](figures/Step04_flood_frequency_annual.png) |
 | ![Lagos spatial risk map](figures/Step06_lagos_risk_maps.png) | ![Durban spatial risk map](figures/Step06_durban_risk_maps.png) |
 
-*(Add your exported PNGs to `figures/` with these filenames, or update the paths above to match.)*
 
 ## Installation
 
@@ -110,12 +109,12 @@ cd lagos-durban-flood-risk-finance
 pip install -r requirements.txt
 jupyter lab
 ```
-h
+
 Then open the notebooks in `notebooks/` in numbered order.
 
 ## Full Report
 
-The complete write-up: including methodology detail, full regression tables, and city-specific investment packages — is available in [`report/Flood_Risk_Finance_Report.docx`](report/Flood_Risk_Finance_Report.docx).
+The complete write-up: including methodology detail, full regression tables, and city-specific investment packages — is available in [`reports/Comparative_Flood_Risk_Assessment_Lagos_Durban.pdf`](reports/Comparative_Flood_Risk_Assessment_Lagos_Durban.pdf).
 
 ## Limitations
 
