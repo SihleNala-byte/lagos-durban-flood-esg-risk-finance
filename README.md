@@ -99,12 +99,12 @@ lagos-durban-flood-esg-risk-finance/
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/lagos-durban-flood-risk-finance.git
+git clone https://github.com/<SihleNala-byte>/lagos-durban-flood-risk-finance.git
 cd lagos-durban-flood-risk-finance
 pip install -r requirements.txt
 jupyter lab
 ```
-
+h
 Then open the notebooks in `notebooks/` in numbered order.
 
 ## Full Report
