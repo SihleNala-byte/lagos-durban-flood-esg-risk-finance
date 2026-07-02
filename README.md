@@ -1,3 +1,4 @@
+![Dashboard Overview](figures/Step07_Dashboard.png)
 # Urban Flood Risk & Climate Finance: A Comparative Analysis of Lagos, Nigeria and Durban, South Africa
 
 A end-to-end analytical pipeline integrating climate science, spatial analysis, statistical modelling, and financial scenario planning to assess urban flood risk and inform insurance, ESG finance, and adaptation investment decisions in two major African coastal cities.
