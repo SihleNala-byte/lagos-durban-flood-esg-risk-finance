@@ -29,14 +29,32 @@ Lagos and Durban are both densely populated, low-lying African coastal cities fa
 ## Repository Structure
 
 ```
-├── notebooks/              # Jupyter notebooks, run in numbered order
-├── data/
-│   ├── raw/                 # Not tracked in git - see Data Sources below
-│   └── processed/           # Small derived datasets used by later steps
-├── figures/                 # Exported charts and maps used in README/report
-├── report/                  # Final formatted report (Word/PDF)
+lagos-durban-flood-risk-finance/
+├── README.md
 ├── requirements.txt
-└── README.md
+├── .gitignore
+├── LICENSE
+├── notebooks/
+│   ├── 01_data_loading_and_cleaning.ipynb
+│   ├── 02_climate_trend_analysis.ipynb
+│   ├── 03_urbanisation_analysis.ipynb
+│   ├── 04_emdat_disaster_analysis.ipynb
+│   ├── 05_regression_modelling.ipynb
+│   ├── 06_spatial_flood_risk_mapping.ipynb
+│   └── 07_scenario_modelling_and_cba.ipynb
+├── data/
+│   ├── raw/          (gitignored — too large / licensing)
+│   └── processed/    (small derived CSVs only)
+├── figures/
+│   ├── climate_trends.png
+│   ├── flood_frequency_trend.png
+│   ├── regression_diagnostics.png
+│   ├── spatial_risk_map_lagos.png
+│   ├── spatial_risk_map_durban.png
+│   └── cba_scenario_comparison.png
+└── report/
+    └── Flood_Risk_Finance_Report.docx
+
 ```
 
 ## Methodology
