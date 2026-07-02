@@ -44,12 +44,20 @@ lagos-durban-flood-esg-risk-finance/
 │   ├── raw/          (gitignored — too large / licensing)
 │   └── processed/    (small derived CSVs only)
 ├── figures/
-│   ├── climate_trends.png
-│   ├── flood_frequency_trend.png
-│   ├── regression_diagnostics.png
-│   ├── spatial_risk_map_lagos.png
-│   ├── spatial_risk_map_durban.png
-│   └── cba_scenario_comparison.png
+│   ├── Step02_rainfall_trends_with_regression.png
+│   ├── Step02_temperature_trends_with_regression.png
+│   ├── Step03_ghsl_builtup_maps.png
+│   ├── Step03_urban_trends.png
+│   ├── Step04_flood_frequency_annual.png
+│   ├── Step04_flood_impact_by_decade.png
+│   ├── Step05_regression_coefficients.png
+│   ├── Step06_durban_risk_maps.png
+│   ├── Step06_lagos_durban_risk_comparison.png
+│   ├── Step06_lagos_risk_maps.png
+│   ├── Step07_BCR.png
+│   ├── Step07_Cumulative_NPV.png
+│   ├── Step07_Damage_Trajectories.png
+│   └── Step07_Dashboard.png
 └── report/
     └── Flood_Risk_Finance_Report.docx
 
@@ -88,9 +96,9 @@ lagos-durban-flood-esg-risk-finance/
 
 | | |
 |---|---|
-| ![Climate trends](figures/climate_trends.png) | ![Flood frequency trend](figures/flood_frequency_trend.png) |
-| ![Regression diagnostics](figures/regression_diagnostics.png) | ![CBA comparison](figures/cba_scenario_comparison.png) |
-| ![Lagos spatial risk map](figures/spatial_risk_map_lagos.png) | ![Durban spatial risk map](figures/spatial_risk_map_durban.png) |
+| ![Climate trends](figures/climate_trends.png) | ![Flood frequency trend](figures/Step04_flood_frequency_annual.png) |
+| ![Regression diagnostics](figures/Step05_regression_coefficients.png) | ![CBA comparison](figures/cba_scenario_comparison.png) |
+| ![Lagos spatial risk map](figures/Step06_lagos_risk_maps.png) | ![Durban spatial risk map](figures/Step06_durban_risk_maps.png) |
 
 *(Add your exported PNGs to `figures/` with these filenames, or update the paths above to match.)*
 
